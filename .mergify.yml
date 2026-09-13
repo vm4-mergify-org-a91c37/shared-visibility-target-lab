@@ -1,1 +1,1 @@
-extends: vm4-shared-invalidation-probe
+extends: shared-visibility-source-lab
